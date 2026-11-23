@@ -102,11 +102,8 @@ util/
 - Melhorar a apresentação dos relatórios.
 - Adicionar autenticação e regras de segurança adequadas, caso o aplicativo evolua para uso real.
 
-## Autoria
+## Aluna
 
-- Nome: **[preencher com seu nome]**
-- Turma: **3º ano — IFSP Campus Araraquara**
+- Nome: **Beatriz Cristina Costa**
+- Turma: **4º info 1**
 
-## Uso de inteligência artificial
-
-A inteligência artificial foi utilizada como apoio à revisão, organização, explicação e correção do código. A autora deve compreender e saber explicar os trechos utilizados no projeto.
